@@ -464,7 +464,7 @@ a, a:hover, button, button:hover, .btnborder, .btntop {
 
 .statistics {
   padding: 140px 0;
-  background-image: url("../assets/img2/ad6.jpg");
+  background-image: url("../assets/img2/background.jpg");
   background-position: center;
   background-attachment: fixed;
   overflow: hidden;
@@ -910,7 +910,7 @@ a, a:hover, button, button:hover, .btnborder, .btntop {
     margin-bottom: 70px; }
 
 .our-history-about {
-  padding: 140px 0;
+  padding: 50px 0;
   text-align: center;
   position: relative;
   overflow: hidden; }
@@ -1315,7 +1315,7 @@ Slider
   .home-slider * {
     outline: none; }
   .home-slider--wrapper__inner {
-    min-height: 100vh;
+    min-height: 80vh;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
