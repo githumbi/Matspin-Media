@@ -3,12 +3,12 @@ Web for Matspin Media Company
 
 
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -24,7 +24,7 @@ Web for Matspin Media Company
   <p align="center">
     A Matatu advertisement company
     <br />
-    <a href="https://matspinmedia.co.ke/"><strong>View Website »</strong></a>
+    <a href="https://matspinmedia.co.ke/assets/img2/c1.PNG"><strong>View Website »</strong></a>
     <br />
    
   </p>
